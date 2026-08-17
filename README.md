@@ -1,4 +1,5 @@
-# Computação em Nuvem - CloudSim.
+# Computação em Nuvem - CloudSim
+
 
 Projeto desenvolvido para a atividade prática da disciplina de **Modelos de Implantação em Computação em Nuvem**.
 
